@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning full-stack web development
+🌱 I’m currently learning full-stack web development <br>
 🌐 Connect with me : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johannapenet) 
 
 # 💻 Tech Stack:
